@@ -1,0 +1,20 @@
+mode: atomic
+github.com/nickmro/world-app/world/db/postgresql/country.go:13.69,21.26 3 2
+github.com/nickmro/world-app/world/db/postgresql/country.go:25.2,25.16 1 1
+github.com/nickmro/world-app/world/db/postgresql/country.go:31.2,31.22 1 1
+github.com/nickmro/world-app/world/db/postgresql/country.go:21.26,23.3 1 1
+github.com/nickmro/world-app/world/db/postgresql/country.go:25.16,29.3 3 0
+github.com/nickmro/world-app/world/db/postgresql/db.go:22.28,27.2 1 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:30.28,32.16 2 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:38.2,43.12 4 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:32.16,36.3 3 0
+github.com/nickmro/world-app/world/db/postgresql/db.go:47.29,48.22 1 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:51.2,51.12 1 0
+github.com/nickmro/world-app/world/db/postgresql/db.go:48.22,50.3 1 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:55.38,57.16 2 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:62.2,62.32 1 2
+github.com/nickmro/world-app/world/db/postgresql/db.go:57.16,61.3 3 0
+github.com/nickmro/world-app/world/db/postgresql/postgresql.go:5.13,8.2 2 1
+github.com/nickmro/world-app/world/db/postgresql/tx.go:15.29,17.2 1 0
+github.com/nickmro/world-app/world/db/postgresql/tx.go:20.31,22.2 1 2
+github.com/nickmro/world-app/world/db/postgresql/tx.go:25.35,27.2 1 0

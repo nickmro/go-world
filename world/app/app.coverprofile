@@ -1,0 +1,7 @@
+mode: atomic
+github.com/nickmro/world-app/world/app/country_service.go:12.82,14.16 2 2
+github.com/nickmro/world-app/world/app/country_service.go:18.2,19.16 2 2
+github.com/nickmro/world-app/world/app/country_service.go:23.2,25.21 2 1
+github.com/nickmro/world-app/world/app/country_service.go:14.16,16.3 1 0
+github.com/nickmro/world-app/world/app/country_service.go:19.16,21.3 1 1
+github.com/nickmro/world-app/world/app/error.go:9.31,11.2 1 0
