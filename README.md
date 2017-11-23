@@ -1,2 +1,2 @@
 # go-world
-A world database cli application built with Go
+A world country database cli application built with Go
